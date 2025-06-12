@@ -19,17 +19,6 @@
 
 ---
 
-## 📁 Project Structure
-
-
-- `lib/models/`: Data classes (User, Profile, etc.)  
-- `lib/views/`: UI screens (Login, Profile, Chat…)  
-- `lib/controllers/`: State management logic  
-- `lib/services/`: Firebase or API integrations  
-- `lib/utils/`: Utilities, constants, helpers  
-
----
-
 ## 🚀 Features
 
 - **Authentication**: Secure user login and registration via email and OTP  
